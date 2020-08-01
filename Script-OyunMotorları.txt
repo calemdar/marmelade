@@ -1,0 +1,59 @@
+Oyun Motorları Script
+
+Tanıtım
+-------------------------------------------------------------------------------------------------------------------------------------
+1- Ben kimim?
+Herkese merhaba! Benim adım Cem. Amerika'da, Worcester Polytechnic Institute'ta Yazılım mühendisliği ve oyun yazılımı okudum
+Kendimi bildim bileli oyun oynamaktan çok zevk alıyorum. Oynadığım oyunların nasıl yapıldığını ve aklımdaki oyun fikirlerini 
+gerçeğe çevirebilmek için yazılım okudum. Istanbul doğumluyum, ve üniversite için Amerika'ya geldim. 
+
+2- Neden bu kanalı yarattım?
+Üniversite yazılım öğrenmekte bana en yardımcı olan şey Youtube vidyoları oldu. Araştırmalarım ağırlıklı derecede ingilizce 
+kaynaklardandı, ve oyun yazılımı öğrenmek için yeterince türkçe kaynağın olmadığını fark ettim. Bu kanalda oyunların nasıl 
+yaratıldığı hakkında insanlara bilgi vermek. Oyun yapmaya nereden başlayacağını bilmeyen insanlara bir fikir ve yardımcı olucağını 
+düşündüğüm kaynaklar vermek. Aynı zamanda belirli konularda insanlara olabildiğince yardım etmek. Konuya başlamadan önce sizi discord 
+kanalıma çağırmak istiyorum. Aşşağıdaki linke tıklayarak kanala katılabilirsiniz. Bu vidyoyu beğendiyseniz like lemeyi ve paylaşmayı 
+unutmayın. Sizi daha fazla bekletmeden ilk konumuza geçelim. Bu vidyodaki konumuz oyun motorları. 
+
+Vidyo
+-------------------------------------------------------------------------------------------------------------------------------------
+
+3- Oyun motorları nedir?
+Oyun motoru, oyun yapmak isteyen insanlar için yaratılmış bir yazılımdır. Oyunun kurallarını, dünyasını, görsellerini ve mekaniklerini 
+kolay bir şekilde bir araya getirebildiğiniz bir alet çantası gibidir. Herhangi bir oyunun, bir oyun motorun üzerine yazılması gerekir. 
+Bir kaç oyun motoru örneği verelim. Unity, Unreal Engine, Game Maker, Core, CryEngine bunlardan birkaçı. Her oyun motorunun kendine 
+özel bir programlama dili vardır. Mesela Unity C# ve JavaScript kullanır, Unreal ve CryEngine C++ kullanır, ve bazen oyun motorunun 
+kendine özel programlama dili olabilir. Örneğin Game Maker. Her oyun motorunun kendi özellikleri, avantajları ve dezavantajları vardır. 
+
+4- World Editor - Dünya Editörü
+Ama genellikle her motorun bir World Editor denilen oyun dünyasını yarattığınız bir pencere vardır. Bunun görünüşü iki boyutlu veya üç 
+boyutlu olmasına göre değişebilir. Bu pencereyi kullanarak oyunun dünyası, oyun içindeki objeleri, oyuncunun başlama yeri gibi şeyleri 
+yerleştirebilirsiniz. Bunu bir kordinat düzlemi olarak düşünebilirsiniz. Her objenin (0, 0) noktasına relatif pozisyonunu belirlediğiniz yerdir.
+
+5- Input sistemleri
+Input sistemleri oyuncunun oyunla etkileşime girebilmesini saylayan sistemlerdir. Yani oyuncu hangi tuşa bastığında, veya mouse u oynattığında 
+oyunun içinde ne olucağını birbirine bağlayan sistemdir. Örneğin "W" tuşuna basınca karakterin ileri yürümesini sağlayan veya boşluk tuşuna 
+basıldığında karakterin zıplamasını sağlayan sistemdir. 
+Input sistemlerini düzgün kurmak çok önemlidir, çünkü oyuncunun oyunla iletişimini sağlayan ana sistemdir. Sadece tuşa basıldığında ne olucağını 
+değil, tuşa basılı tutulduğunda ne olucağını da düşünmeniz gerekir.
+
+6- Çarpışmalar
+Her oyun motoru, oyun içindeki objelerin çarpışmalarının kayıdını bir şekilde tutar. Ve herhangi bir objenin çarpışmasının nasıl sonuçlanıcağını 
+değiştirebilirsiniz. Örneğin yerdeki bir oyuncu karakteri yerdeki can çantasıyla çarpıştığında can çantasının yok olması ve oyuncunun 
+canının dolması gerekir. Tabi bunların mantıklarını önceden yazıp, planlayıp sonra kodunu yazmak en doğru yoldur. Direkt bütün bu kuralları 
+kodlamak oyunu karmaşıklaştırabilir. Özellikle başka insanlarla aynı oyun üzerince çalışıyorsanız.
+
+7- Görseller ve modeller
+Bir oyunun nasıl gözüktüğü en önemli faktörlerden biridir. Bunun arkasında ilk olarak ta oyun içindeki görseller, veya üç boyutlu bir oyunsa 
+modellerle başlar. Çoğu oyun motoru bunları oyun motorunun içinde yaratmanıza izin vermez, veya çok basit şekiller kullanabilmenizi sağlar. 
+Bu görselleri veya animasyonları başka bir programda yaratıp, oyun motoruna import etmeniz gerekir. İki boyutlu oyunlarda Photoshop veya 
+Gimp gibi programlar PNG veya JPG dosyaları yaratmak için son derecede kullanışlıdır. Üç boyutlu oyunlar için Maya veya Blender gibi programlar kullanılır. 
+Bu görselleri yaratırken bir sürü farklı şeylere dikkat etmeniz gerekir. Texture, mask, bump map, texture normals gibi detaylara girmiyicem, 
+ama bunları anlatan vidyoları ileride yapmayı planlıyorum. Bunları yarattıktan sonra oyun motoru içerisinde yarattığınız objelere bağlayarak oyun 
+içinde nasıl göründüğünü kontrol etmeniz gerekir. 
+
+Outro
+-----------------------------------------------------------------------------------------------------------------------------------------------
+İzlediğiniz için çok teşekkürler. Umarım bu vidyodan oyun motorları hakkında yani şeyler öğrenmişsinizdir. Düşünceleriniz ve sorularınız varsa 
+lütfen yorum bırakın ve daha fazla vidyo üretmemi istiyorsanız subscribe lemeyi unutmayın. Her gün yeni bir şey öğrenmek için iyi bir gün. Bir 
+sonraki vidyo da görüşmek üzere!

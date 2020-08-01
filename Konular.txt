@@ -1,0 +1,16 @@
+Marmelad - Youtube channel 
+
+Konular: 
+Oyun Motorları
+Rendering
+Input
+Fizik
+UI
+Oyuncu
+Kamera
+Çarpışmalar - Collisions
+Açıklama - Documentation
+Test yazma - Test Cases
+Harita
+Bilgisayar
+Oyun Yazarlığı - Writing in games

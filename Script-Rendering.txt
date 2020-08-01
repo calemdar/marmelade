@@ -1,0 +1,15 @@
+Rendering
+
+Tanıtım
+---------------------------------------------------------------------------------------------------------
+Herkese merhaba! Benim adım Cem ve bugünki konumuz Rendering. Rendering nedir? Nerede kullanılır?
+Farklı rendering türleri nelerdir? Bunları konuşucaz. Birkaç örnek üzerinden geçerek bu konuyla daha 
+haşır neşir olmanıza yardım edicem. Konuya başlamadan önce sizi discord kanalıma çağırmak istiyorum. 
+Aşşağıdaki linke tıklayarak kanala katılabilirsiniz. Bu vidyoyu beğendiyseniz like lemeyi ve paylaşmayı 
+unutmayın. Şimdi bu günkü konumuza geçelim.
+
+Vidyo
+---------------------------------------------------------------------------------------------------------
+1- Rendering Nedir?
+Rendering iki boyutlu veya üç boyutlu sanal objelerin bilgisayar ekranına çizilmesi işlemidir. Genellikle 
+sanal bir dünyayı çizebilmek için üç şeye ihtiyaç vardır. Sahne, kamera ve ışık. 
